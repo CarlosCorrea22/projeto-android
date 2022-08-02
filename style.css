@@ -50,6 +50,7 @@ header > h1 {
 header > p {
     font-size: 1.2em;
     font-weight: normal;
+    margin-top: 10px;
 }
 
 nav {
